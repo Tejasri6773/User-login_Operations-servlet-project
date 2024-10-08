@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+body{
+	background-image:url('https://cdn.pixabay.com/photo/2016/10/29/00/30/abstract-1779380_1280.png');
+	background-size:cover;
+	height:100vh;
+	background-position:center;
+}
+h1{
+	color:pink;
+}
+#div1{
+	margin-left:350px;
+	margin-top:80px;
+	background-image:linear-gradient(0deg,green,transparent);
+	opacity:1;
+	transition:opacity 0.5s;
+	border-collapse:collapse;
+	height:50px;
+	width:50px;
+}
+body{
+	color:white;
+}
+a{
+	text-docaration:none;
+	color:white;
+}
+h2{
+	color:black;
+	text-align:center;
+}
+
+

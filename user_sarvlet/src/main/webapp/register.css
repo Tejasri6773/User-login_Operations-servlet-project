@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+fieldset{
+	padding:50px;
+	width:400px;
+	background-color:rgba(0,0,0,0.5);
+	font-size:20px;
+	
+}
+legend{
+	font-size:30px;
+	font-weight:700px;
+	color:blue;
+}
+form{
+	margin-left:400px;
+	margin-top:100px;
+}
+body{
+	background-image:url('https://cdn.pixabay.com/photo/2017/04/02/19/23/environment-2196690_960_720.jpg');
+	background-size:cover;
+	height:80vh;
+	background-position:center;
+	color:white;
+	
+}
+#btn{
+	width:100px;
+	padding:5px;
+	font-size:20px;
+	background-color:orange;
+	color:white;
+	border-radius:20px;
+	
+	
+}
+
+
+
